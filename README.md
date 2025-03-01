@@ -102,25 +102,25 @@ When contributing to open-source projects.
 When Working on a project without repository write access.
 
 Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
--Issues are used to track bugs, feature requests, and improvements and Project Boards provide a Kanban-style organization for tasks.
+Issues are used to track bugs, feature requests, and improvements and Project Boards provide a Kanban-style organization for tasks.
 
 Usage Examples:
--Tracking bug reports with labels and comments.
--Managing development tasks using a board with "To-Do," "In Progress," and "Done" columns.
--Assigning tasks to contributors for better project management.
--These tools improve teamwork by keeping track of progress and responsibilities.
+Tracking bug reports with labels and comments.
+Managing development tasks using a board with "To-Do," "In Progress," and "Done" columns.
+Assigning tasks to contributors for better project management.
+These tools improve teamwork by keeping track of progress and responsibilities.
 
 Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 Common Challenges:
--Merge conflicts.
--Accidental commits to the wrong branch.
--Managing large repositories.
--Keeping commit messages clear.
+Merge conflicts.
+Accidental commits to the wrong branch.
+Managing large repositories.
+Keeping commit messages clear.
 
 Best Practices:
--Use meaningful commit messages.
--Regularly pull changes to avoid conflicts.
--Work with branches for feature development.
--Use .gitignore to exclude unnecessary files.
--Follow code review and PR processes.
+Use meaningful commit messages.
+Regularly pull changes to avoid conflicts.
+Work with branches for feature development.
+Use .gitignore to exclude unnecessary files.
+Follow code review and PR processes.
 
